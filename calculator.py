@@ -2,6 +2,7 @@
 # A terminal-based calculator that performs +, −, ×, ÷ operations on two numbers.
 # Get Input from User
 # Use if-else to Perform Operations
+
 while True:
     choice = input("Do you want to calculate? (yes/no): ")
 
