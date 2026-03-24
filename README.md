@@ -60,3 +60,37 @@ This project helps in understanding:
 ### Learning Purpose
 
 This project helped me improve logic building and working with user inputs.
+
+### To-Do List
+
+## Description
+
+This is a basic command-line to-do list application built using Python.
+
+It allows users to manage their daily tasks in a simple way.
+
+**This project helps in learning:**
+
+Lists
+Functions
+User input handling
+Basic program structure
+Features
+Add tasks
+View tasks
+Delete tasks
+Simple and clean interface
+
+## Learning Purpose
+
+This project is part of my practice to build useful real-world applications using Python.
+
+
+### Overall Learning Goal :
+
+These mini projects are created to:
+
+Strengthen Python fundamentals
+Improve problem-solving skills
+Practice writing clean and readable code
+Build consistency through small projects
