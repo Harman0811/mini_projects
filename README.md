@@ -61,9 +61,9 @@ This project helps in understanding:
 
 This project helped me improve logic building and working with user inputs.
 
-#### To-Do List
+## To-Do List
 
-## Description
+### Description
 
 This is a basic command-line to-do list application built using Python.
 
@@ -82,12 +82,12 @@ It allows users to manage their daily tasks in a simple way.
 * Simple and clean interface
 
 
-## Learning Purpose
+### Learning Purpose
 
 This project is part of my practice to build useful real-world applications using Python.
 
 
-### Overall Learning Goal :
+## Overall Learning Goal :
 
 These mini projects are created to:
 
