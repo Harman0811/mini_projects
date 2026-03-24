@@ -71,23 +71,15 @@ It allows users to manage their daily tasks in a simple way.
 
 **This project helps in learning:**
 
-Lists
-
-Functions
-
-User input handling
-
-Basic program structure
-
-Features
-
-Add tasks
-
-View tasks
-
-Delete tasks
-
-Simple and clean interface
+* Lists
+* Functions
+* User input handling
+* Basic program structure
+* Features
+* Add tasks
+* View tasks
+* Delete tasks
+* Simple and clean interface
 
 
 ## Learning Purpose
