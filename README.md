@@ -5,7 +5,7 @@ A clean and modular collection of mini projects focused on performance, readabil
 
 ## Python Calculator
 
-### Description
+## Description
 
 This is a simple terminal-based calculator built using Python. It performs basic arithmetic operations:
 
@@ -61,7 +61,7 @@ This project helps in understanding:
 
 This project helped me improve logic building and working with user inputs.
 
-### To-Do List
+#### To-Do List
 
 ## Description
 
