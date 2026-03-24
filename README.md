@@ -99,7 +99,7 @@ This project is part of my practice to build useful real-world applications usin
 
 These mini projects are created to:
 
-Strengthen Python fundamentals
-Improve problem-solving skills
-Practice writing clean and readable code
-Build consistency through small projects
+* Strengthen Python fundamentals
+* Improve problem-solving skills
+* Practice writing clean and readable code
+* Build consistency through small projects
