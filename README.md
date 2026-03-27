@@ -1,4 +1,4 @@
-## mini_projects
+# mini_projects
 
 A clean and modular collection of mini projects focused on performance, readability, and beginner-friendly Python concepts. Each project is simple, well-structured, and built to demonstrate core programming principles.
 
@@ -69,7 +69,7 @@ This is a basic command-line to-do list application built using Python.
 
 It allows users to manage their daily tasks in a simple way.
 
-**This project helps in learning:**
+### This project helps in learning:
 
 * Lists
 * Functions
@@ -87,7 +87,7 @@ It allows users to manage their daily tasks in a simple way.
 This project is part of my practice to build useful real-world applications using Python.
 
 
-## Overall Learning Goal :
+# Overall Learning Goal :
 
 These mini projects are created to:
 
