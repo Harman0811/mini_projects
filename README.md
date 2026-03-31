@@ -30,7 +30,7 @@ This project was created as a beginner practice to understand:
 
 ### Learning Purpose
 
-This project is part of my Python learning journey, and to understand the basics of Python and some important libraries of Python with better understanding and usag.
+This project is part of my Python learning journey,to understand some basic concepts deeply.
 
 
 ## Number Guessing Game
